@@ -1,4 +1,4 @@
-My name is "Musharraf Husain Shahadat Hasan".
+My Self "Musharraf Husain Shahadat Hasan".
 I’m interested in Programming and solve coding puzzles.
 I’m currently learning Python programming and Django framework.
 I’m currently Working on Hacker Rank.
